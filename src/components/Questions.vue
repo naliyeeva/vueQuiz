@@ -39,8 +39,6 @@
     props: ['name'],
     data() {
       return {
-        isActive: false,
-        activeClass: 'active',
         counter: 0,
         questions: [
           {
