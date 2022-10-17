@@ -210,8 +210,6 @@
         if(currentAnswer.correct) {
           this.numberOfCorrects++;
         }
-
-        console.log(this.numberOfCorrects);
       },
       submit() {
         this.displayResult = true;
@@ -221,8 +219,6 @@
 </script>
 
 <style lang="scss" scoped>
-
-
   .questionsContainer {
     display: flex;
     flex-wrap: wrap;
