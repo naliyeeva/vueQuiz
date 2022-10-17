@@ -1,0 +1,60 @@
+{
+"questions" : [
+  {
+    "id": 1,
+    "question" :  "Q1. What is one thing that will always cheer me up?",
+    "answers" : [
+      {"id": "coffee", "name": "Coffee", "correct": true, "selected": false },
+      {"id": "chocolate", "name": "Chocolate", "correct": false, "selected": false },
+      {"id": "cake", "name": "Cake", "correct": false, "selected": false },
+      {"id": "books", "name": "Books", "correct": false, "selected": false }
+    ],
+    "selected": false
+  },
+  {
+    "id": 2,
+    "question" :  "Q2. Which of the following places I would choose?",
+    "answers" : [
+      {"id": "gloria", "name": "Gloria Jeans", "correct": false, "selected": false },
+      {"id": "second", "name": "Second Cup", "correct": false, "selected": false },
+      {"id": "starbucks", "name": "Starbucks", "correct": true, "selected": false },
+      {"id": "cinnabon", "name": "Cinnabon", "correct": false, "selected": false }
+    ],
+    "selected":  false
+  },
+  {
+    "id": 3,
+    "question" :  "Q3. Which of the following cities I would visit again and again?",
+    "answers" : [
+      {"id": "rome", "name": "Rome", "correct": false, "selected": false },
+      {"id": "paris", "name": "Paris", "correct": false, "selected": false },
+      {"id": "berlin", "name": "Berlin", "correct": false, "selected": false },
+      {"id": "dubai", "name": "Dubai", "correct": true, "selected": false }
+    ],
+    "selected":  false
+  },
+  {
+    "id": 4,
+    "question" :  "Q4. What is my favorite food?",
+    "answers" : [
+      {"id": "burger", "name": "Burger", "correct": true, "selected": false },
+      {"id": "pizza", "name": "Pizza", "correct": false, "selected": false },
+      {"id": "sushi", "name": "Sushi", "correct": false, "selected": false },
+      {"id": "pasta", "name": "Pasta", "correct": false, "selected": false }
+    ],
+    "selected":  false
+  },
+  {
+    "id": 5,
+    "question" :  "Q5. Favorite time of the week?",
+    "answers" : [
+      {"id": "fridayEvening", "name": "Friday evening", "correct": true, "selected": false },
+      {"id": "saturdayEvening", "name": "Saturday evening", "correct": false, "selected": false },
+      {"id": "saturdayMorning", "name": "Saturday morning", "correct": false, "selected": false },
+      {"id": "sundayMorning", "name": "Sunday morning", "correct": false, "selected": false }
+    ],
+    "selected":  false
+  }
+]
+}
+
